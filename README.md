@@ -2,6 +2,21 @@
    
   Emerging IT Talent | Problem-Solver | Skilled in Troubleshooting & System Administration
 
+<h2>👨‍💻 IT Certifications:</h2>
+
+CompTIA A+
+
+CompTIA Network+
+
+CompTIA Security+
+
+Linux Esentials
+
+Microsoft Certified: Azure AI Fundamentals
+
+Microsoft Certified: Azure Fundamentals
+
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
